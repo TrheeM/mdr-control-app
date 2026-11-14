@@ -6,8 +6,8 @@ Painel MDR Control como aplicativo de desktop — **Mac e Windows**. Baixe, abra
 
 Vá em **[Releases](../../releases/latest)** e baixe:
 
-- **Mac (Apple Silicon):** `MDR Control-0.2.0-arm64.dmg`
-- **Windows (64-bit):** `MDR-Control-0.2.0-win-x64.zip`
+- **Mac (Apple Silicon):** `MDR Control-0.3.0-arm64.dmg`
+- **Windows (64-bit):** `MDR-Control-0.3.0-win-x64.zip`
 
 ## Instalar
 
@@ -22,4 +22,4 @@ O app sobe o painel localmente (no seu próprio computador) e abre numa janela p
 > Segurança: ao criar a conta, o painel fica **vinculado àquele computador**. Se o app for copiado para outra máquina, o acesso é recusado.
 
 ---
-*App autônomo (traz tudo embutido). Versão 0.2.0.*
+*App autônomo (traz tudo embutido). Versão 0.3.0.*
