@@ -1,25 +1,24 @@
-# MDR Control
+# MDR Control Equipe
 
-Painel MDR Control como aplicativo de desktop — **Mac e Windows**. Baixe, abra e use; não precisa de terminal nem instalar nada à parte.
+App da **equipe** para entrar no painel MDR Control do dono. Ele **não traz o painel dentro**: só abre uma janela segura (HTTPS) conectada ao computador do dono.
 
 ## Baixar
 
 Vá em **[Releases](../../releases/latest)** e baixe:
 
-- **Mac (Apple Silicon):** `MDR Control-0.3.0-arm64.dmg`
-- **Windows (64-bit):** `MDR-Control-0.3.0-win-x64.zip`
+- **Windows (64-bit):** `MDR-Control-Equipe-0.14.0.exe`. É um arquivo só: dois cliques e abre. Não precisa instalar nem extrair.
+- **Mac (Apple Silicon):** `MDR-Control-Equipe-0.14.0-mac-arm64.dmg`
 
-## Instalar
+Sem assinatura digital: no Windows, **Mais informações → Executar assim mesmo**; no Mac, botão direito no app → **Abrir**.
 
-**Mac** — abra o `.dmg` e arraste **MDR Control** para a pasta Aplicativos. Na primeira vez, como o app não é assinado pela Apple: clique com o **botão direito** no app → **Abrir** → **Abrir**.
+## Entrar
 
-**Windows** — extraia o `.zip` e rode **`MDR Control.exe`** (app portátil, não instala). Se o SmartScreen avisar: **Mais informações → Executar assim mesmo**.
+1. Peça ao dono o **endereço** e o **código de pareamento**.
+2. No app: **Entrar no painel da equipe**. Digite o endereço e o código e clique em **Conectar**.
+3. **Crie sua conta.** O dono libera o seu cargo.
+4. Em **Minha conta → Meu agente**, cadastre o **seu** Claude/Codex. O painel nunca usa a conta do dono para você.
 
-## Como funciona
-
-O app sobe o painel localmente (no seu próprio computador) e abre numa janela própria. Tudo fica na sua máquina — nada é enviado para a internet. No primeiro acesso você cria a conta de dono.
-
-> Segurança: ao criar a conta, o painel fica **vinculado àquele computador**. Se o app for copiado para outra máquina, o acesso é recusado.
+O código de pareamento garante que você está no computador do dono, e não em outro da rede.
 
 ---
-*App autônomo (traz tudo embutido). Versão 0.3.0.*
+*Versões antigas (0.1.0 a 0.13.0) foram retiradas e não acessam o painel. Apague-as.*
