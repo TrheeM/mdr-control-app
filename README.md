@@ -4,12 +4,18 @@ App da **equipe** para entrar no painel MDR Control do dono. Ele **não traz o p
 
 ## Baixar
 
-Vá em **[Releases](../../releases/latest)** e baixe:
+| Computador | Link |
+| --- | --- |
+| Windows (64-bit) | [Baixar para Windows](https://github.com/TrheeM/mdr-control-app/releases/latest/download/MDR-Control-Equipe-Windows.exe) |
+| Mac com chip Apple (M1 a M4) | [Baixar para Mac Apple](https://github.com/TrheeM/mdr-control-app/releases/latest/download/MDR-Control-Equipe-Mac-Apple.dmg) |
+| Mac com Intel | [Baixar para Mac Intel](https://github.com/TrheeM/mdr-control-app/releases/latest/download/MDR-Control-Equipe-Mac-Intel.dmg) |
 
-- **Windows (64-bit):** `MDR-Control-Equipe-0.14.0.exe`. É um arquivo só: dois cliques e abre. Não precisa instalar nem extrair.
-- **Mac (Apple Silicon):** `MDR-Control-Equipe-0.14.0-mac-arm64.dmg`
+## Instalar
 
-Sem assinatura digital: no Windows, **Mais informações → Executar assim mesmo**; no Mac, botão direito no app → **Abrir**.
+O app não tem assinatura digital paga, por isso o sistema avisa na primeira vez.
+
+- **Windows:** é um arquivo só, não precisa instalar. Abra e, no aviso, clique em **Mais informações** e depois em **Executar assim mesmo**.
+- **Mac:** abra o arquivo e arraste o app para Aplicativos. Abra o app, feche o aviso, vá em **Ajustes do Sistema, Privacidade e Segurança** e clique em **Abrir Mesmo Assim**.
 
 ## Entrar
 
